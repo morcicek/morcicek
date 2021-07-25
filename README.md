@@ -29,5 +29,5 @@
 
 <p align="center">
   
-  <img src="https://github-readme-stats.vercel.app/api?username=yhekim&show_icons=true">
+  <img src="https://github-readme-stats.vercel.app/api?username=morcicek&show_icons=true">
 </p>
