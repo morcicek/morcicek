@@ -1,6 +1,6 @@
 <h1 align="center" style="color:#1852E4">Hello World! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
 
-<p align="center">My name is Cevat.I have just started to learn coding.I am complete a novice at coding.But ı have a big passion to reach my goal.I am studying hard everyday and ı am confident to be a programmer.</p>
+<p align="center">My name is Cevat.I have just started to learn coding.I am complete a novice at coding.But ı have a big passion to reach my goal.I am studying hard everyday and ı am confident to be a programmer.I want to be a full-stack developer and working on it.You can contact me anytime you want.I look forward to meet new developers and expand my network.</p>
 <hr>
 <p align="center">
   <b>Let's contact with me!</b>
