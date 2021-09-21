@@ -19,7 +19,7 @@
   <img src="http://resources.spacexchimp.com/images/logos/CSS3.png" width="60" height="60">
   <img src="https://1000logos.net/wp-content/uploads/2020/09/JavaScript-Logo.png" width="95" height="60">
   <img src="https://ensocore.com/media/61/reactjs-logo-sticker%20%281%29.jpg" width="60" height="60">
-   <img src="<img src="http://assets.stickpng.com/images/5848152fcef1014c0b5e4967.png" width="60" height="60">
+  <img src="<img src="https://banner2.cleanpng.com/20180412/kye/kisspng-python-programming-language-computer-programming-language-5acfdc3636bac7.8891188615235717662242.jpg" width="60" height="60">
   <img src="https://www.onurbabur.com/wp-content/uploads/2017/11/ms-sql-server-logo-square.jpg" width="60" height="60">
   <img src="https://dyltqmyl993wv.cloudfront.net/assets/stacks/postgresql/img/postgresql-stack-220x234.png" width="60" height="60">
 </p>
