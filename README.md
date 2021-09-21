@@ -6,7 +6,7 @@
   <b>Let's contact with me!</b>
 
   <p align="center">
-    <a href="https://tweet" alt="Twitter"><img src="https://raw.githubusercontent.com/jayehernandez/jayehernandez/3f5402efef9a0ae89211a6e04609558e862ca616/readme/twitter-fill.svg"></a>
+    <a href="https://twitter.com/home" alt="Twitter"><img src="https://raw.githubusercontent.com/jayehernandez/jayehernandez/3f5402efef9a0ae89211a6e04609558e862ca616/readme/twitter-fill.svg"></a>
     <a href="https://www.linkedin.com/in/mehmet-cevat-morcicek-b50a29178?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BNYmzl2a2RICRmg6YN2ItmQ%3D%3D" alt="Linkedin"><img src="https://raw.githubusercontent.com/jayehernandez/jayehernandez/3f5402efef9a0ae89211a6e04609558e862ca616/readme/linkedin-fill.svg"></a>
     <a href="mailto:yusufhekimyh@gmail.com" alt="Contact me"><img src="https://raw.githubusercontent.com/jayehernandez/jayehernandez/3f5402efef9a0ae89211a6e04609558e862ca616/readme/mail-fill.svg"></a>
     <a href="https://site" alt="My site"><img src="https://raw.githubusercontent.com/jayehernandez/jayehernandez/3f5402efef9a0ae89211a6e04609558e862ca616/readme/external-link-line.svg"></a>
